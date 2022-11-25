@@ -1,9 +1,13 @@
 # Shaoin
 Linux ***Sha***red ***O***bject ***In***jector.
+
 ## Features
-- [ ] Injecting into x86 and x64 processes.
-- [ ] Manual mapping.
+- [ ] Injection into x86 and x64 processes
+- [ ] Manual mapping
+- [ ] CLI interface
+
 ## Screenshots
+
 ## Building
 ```bash
 $ git clone https://github.com/monkmental/shaoin/
