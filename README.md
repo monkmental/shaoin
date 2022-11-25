@@ -1,7 +1,7 @@
 # Shaoin
 Linux ***Sha***red ***O***bject ***In***jector.
 ## Features
-- [ ] Injecting x86 and x64 processes.
+- [ ] Injecting into x86 and x64 processes.
 - [ ] Manual mapping.
 ## Screenshots
 ## Building
